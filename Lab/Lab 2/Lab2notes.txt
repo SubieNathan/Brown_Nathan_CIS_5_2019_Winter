@@ -1,0 +1,48 @@
+1
+Personal computers used to be the size of a fridge.
+Started with Unix, started at Bell Labs.
+Began the "Personal Computer", then known as the Mini Computer.
+The beginning of the decentralization of computing.
+Modern products use software derived from Unix.
+Mac OS 10, Linux on phones, etc.
+
+2
+Bjarne Stroustrup created c++
+Class created for "all domains"
+Anything can be represented as a class
+Class hierarchy - fire engine, type of truck, type of car, type of vehicle
+-Object oriented programming
+C++ has abstractions that are so efficient that you can afford it in infrastructrure
+You can access hardware directly as often as you need to, with real time control
+Must have the ability to maintain stability over decades
+
+3
+UNIX operating system
+Looking for a better way to develop computer programs
+Hardware can break, however isnt expected to be changed or upgraded
+Programs are expected to be changed or upgraded (demands)
+Code broken down into modules, so that when changes are implemented, only a few modules are changed.
+Unix is made up of 3 layers
+---central layer controls hardware resources
+--shell is the interface between users and kernel (central layer)
+-useful programs, compilers, utilities, document formatting programs, etc
+These are the building blocks, which can be combined in unique ways to get different jobs done.
+Programs can be strung together, with data flowing through them
+'pipeline output of one command as the input for antother'
+file system, hierarchy
+input can be from a file (a list of commands), output can be (write) to a file
+^ input/output redirection handled by shell, enables these ^
+((problems can be broken down into many programs, which allows for more efficient production and upkeep))
+
+4
+Linus Torvalds created linux
+'headquarters' is a small room, by himself
+Linux is open source
+-wasnt meant to be 'open source' started out as constructive criticism
+Linus began using 'Open Source Licenses', was worried about large corporations taking advantage of their work
+-People started contributing ideas to this project (linux)
+--Linus was 21 at the time
+--A revelation when he began getting feedback on his program and code
+The community around Linux grew slowly
+Git - Linus's second big project, built to maintain Linux(specifically to handle the scale of users working on the project (1000 per release, each 2 months))
+Open source works well in code, because 
